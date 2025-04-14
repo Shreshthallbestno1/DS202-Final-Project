@@ -1,7 +1,12 @@
 # dbwt
 dbwt downloaded from https://code.google.com/archive/p/csalib/downloads
 
-Citing dbwt README File - 
+in the ```dbwt``` folder, run 
+```bash
+make
+```
+
+Citing dbwt README File - \\
 Direct BWT construction
 
 Kunihiko Sadakane
