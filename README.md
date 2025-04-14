@@ -42,7 +42,7 @@ git clone https://github.com/y-256/libdivsufsort.git
 The following assumes it was cloned in a folder called ```libdivsufsort```
 
 # Running
-For the reasons of large storage, the original database is not included. The ```database.xlxs``` contains all the data and sources used to gather the data.
+For the reasons of large storage space required, the original database is not included. The ```database.xlxs``` contains all the database details and sources used to gather the data.
 
 After downloading the data, store them in respective folders under ```./Datasets``` folder. Eg. Store english corpus into the ```./Datasets/english``` folder, and so on.
 
