@@ -6,7 +6,7 @@ in the ```dbwt``` folder, run
 make
 ```
 
-Citing dbwt README File - \\
+Citing dbwt README File - \
 Direct BWT construction
 
 Kunihiko Sadakane
@@ -56,7 +56,7 @@ The file ```runBWT.ipynb``` contains all code to run and plot the graphs.
 Final graphs and data table are present in ```./Datasets/Output``` folder
 
 ## Requirments to run the notebook
-Other than standard python libraries, following are needed:
-Numpy
-Matplotlib
-Pandas
+Other than standard python libraries, following are needed:\
+Numpy\
+Matplotlib\
+Pandas\
